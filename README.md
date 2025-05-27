@@ -1,4 +1,5 @@
-۹<!DOCTYPE html>
+
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -10,3 +11,4 @@
   <p>Join us on our journey to reforest the Earth through blockchain innovation.</p>
 </body>
 </html>
+> This commit includes the main file of the CLP project, intended to initiate the website design. The index.html file has been added as the homepage, containing the initial content of the project.
